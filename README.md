@@ -4,11 +4,10 @@ This repository contains my Bachelor's thesis on the security analysis of the Tr
 
 ## Repository - Contents
 
-| Bachelors-thesis_Kelke-van-Lessen.pdf | Contains the thesis itself           |
-| ------------------------------------- | ------------------------------------ |
-| local-traffic_packet-trace.eth        | Recorded local areal network traffic |
-| mitmproxy-flows                       | mitmproxy-flows                      |
-| MobSF-report_Home-smart_1-19-2.pdf    | MobSF static analysis report         |
+- `Bachelors-thesis_Kelke-van-Lessen.pdf` : Contains the thesis itself
+- `MobSF-report_Home-smart_1-19-2.pdf` : MobSF static analysis report
+- `local-traffic_packet-trace.eth` : Recorded local areal network
+- `mitmproxy-flows` : mitmproxy capture files
 
 ## Thesis - Table of Contents
 1. Introduction
